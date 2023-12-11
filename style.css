@@ -1,0 +1,28 @@
+.home  {
+    height: 100vh;
+    /* background-color: rgba(0, 0, 0, 0.952); */
+}
+
+.home-content h1 {
+    font-size: 65px;
+    font-weight: 700;
+    color: #5B0888;
+}
+
+.home-content p {
+    font-size: 25px;
+    color: black;
+}
+
+.home-content .btn {
+    color: #fff;
+    background-color: #5B0888;
+    padding: 10px 30px;
+    margin: 10px 10px;
+    border: 1px solid black;
+}
+
+.home-content .btn:hover {
+    background-color: #ccc;
+    color: black;
+}
